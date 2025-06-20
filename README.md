@@ -121,7 +121,7 @@ It will buy only when new pool is open for trading. If you want to buy token tha
 
 The program has undergone multiple audits and tests, demonstrating strong profitability. If you have any suggestions, please contact:
 
-Discord: `@zldp_2002`
+Discord: `@zldp_2002` 
 
 
 ## DISCLAIMER
